@@ -1,0 +1,6 @@
+/sifreler.txt # sifreler.txt dosyasi eklenmesin.
+/notlar.txt  # notlar.txt dosyasi eklenmesin.
+*.md # md uzantili dosyalar eklenmesin
+!README.md # Bu Readme dosyasini ekle.
+img* # img dosyalari eklenmesin.
+*img* # İçerisinde img geçen hiçbir dosya eklenmesin.
